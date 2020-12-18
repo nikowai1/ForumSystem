@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GN61Y1c4329edxxhsUxR11BpSOCNgQAyZC4FH5bzY0pgY052kOP/rkmwyrtKFuV2CEs3hYSqTaioJf1KXF8J7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\ForumSystem.Common\\ForumSystem.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikow\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\nikow\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}

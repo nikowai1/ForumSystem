@@ -1,0 +1,9 @@
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\bin\Debug\netstandard2.1\ForumSystem.Data.Common.deps.json
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\bin\Debug\netstandard2.1\ForumSystem.Data.Common.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\bin\Debug\netstandard2.1\ForumSystem.Data.Common.pdb
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\obj\Debug\netstandard2.1\ForumSystem.Data.Common.csprojAssemblyReference.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\obj\Debug\netstandard2.1\ForumSystem.Data.Common.AssemblyInfoInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\obj\Debug\netstandard2.1\ForumSystem.Data.Common.AssemblyInfo.cs
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\obj\Debug\netstandard2.1\ForumSystem.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\obj\Debug\netstandard2.1\ForumSystem.Data.Common.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Common\obj\Debug\netstandard2.1\ForumSystem.Data.Common.pdb

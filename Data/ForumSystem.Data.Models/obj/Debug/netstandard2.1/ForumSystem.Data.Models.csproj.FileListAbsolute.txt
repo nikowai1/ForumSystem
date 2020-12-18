@@ -1,0 +1,12 @@
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\bin\Debug\netstandard2.1\ForumSystem.Data.Models.deps.json
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\bin\Debug\netstandard2.1\ForumSystem.Data.Models.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\bin\Debug\netstandard2.1\ForumSystem.Data.Models.pdb
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\bin\Debug\netstandard2.1\ForumSystem.Data.Common.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\bin\Debug\netstandard2.1\ForumSystem.Data.Common.pdb
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\obj\Debug\netstandard2.1\ForumSystem.Data.Models.csprojAssemblyReference.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\obj\Debug\netstandard2.1\ForumSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\obj\Debug\netstandard2.1\ForumSystem.Data.Models.AssemblyInfo.cs
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\obj\Debug\netstandard2.1\ForumSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\obj\Debug\netstandard2.1\ForumSystem.Data.Models.csproj.CopyComplete
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\obj\Debug\netstandard2.1\ForumSystem.Data.Models.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Data\ForumSystem.Data.Models\obj\Debug\netstandard2.1\ForumSystem.Data.Models.pdb

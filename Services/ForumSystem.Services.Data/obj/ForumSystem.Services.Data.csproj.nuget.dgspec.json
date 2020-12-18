@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Data\\ForumSystem.Services.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\ForumSystem.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\ForumSystem.Data.Common.csproj",
+        "projectName": "ForumSystem.Data.Common",
+        "projectPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\ForumSystem.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\nikow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Models\\ForumSystem.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Models\\ForumSystem.Data.Models.csproj",
+        "projectName": "ForumSystem.Data.Models",
+        "projectPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Models\\ForumSystem.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\nikow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\ForumSystem.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\ForumSystem.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Data\\ForumSystem.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Data\\ForumSystem.Services.Data.csproj",
+        "projectName": "ForumSystem.Services.Data",
+        "projectPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Data\\ForumSystem.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\nikow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\ForumSystem.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\ForumSystem.Data.Common.csproj"
+              },
+              "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Models\\ForumSystem.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Models\\ForumSystem.Data.Models.csproj"
+              },
+              "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Mapping\\ForumSystem.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Mapping\\ForumSystem.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Mapping\\ForumSystem.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Mapping\\ForumSystem.Services.Mapping.csproj",
+        "projectName": "ForumSystem.Services.Mapping",
+        "projectPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Mapping\\ForumSystem.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\nikow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Services\\ForumSystem.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

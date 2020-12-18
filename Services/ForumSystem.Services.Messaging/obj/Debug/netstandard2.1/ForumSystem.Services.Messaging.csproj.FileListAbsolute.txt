@@ -1,0 +1,9 @@
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\bin\Debug\netstandard2.1\ForumSystem.Services.Messaging.deps.json
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\bin\Debug\netstandard2.1\ForumSystem.Services.Messaging.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\bin\Debug\netstandard2.1\ForumSystem.Services.Messaging.pdb
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\obj\Debug\netstandard2.1\ForumSystem.Services.Messaging.csprojAssemblyReference.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\obj\Debug\netstandard2.1\ForumSystem.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\obj\Debug\netstandard2.1\ForumSystem.Services.Messaging.AssemblyInfo.cs
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\obj\Debug\netstandard2.1\ForumSystem.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\obj\Debug\netstandard2.1\ForumSystem.Services.Messaging.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Messaging\obj\Debug\netstandard2.1\ForumSystem.Services.Messaging.pdb

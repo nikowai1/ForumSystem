@@ -1,0 +1,9 @@
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\bin\Debug\netstandard2.1\ForumSystem.Services.Mapping.deps.json
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\bin\Debug\netstandard2.1\ForumSystem.Services.Mapping.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\bin\Debug\netstandard2.1\ForumSystem.Services.Mapping.pdb
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\obj\Debug\netstandard2.1\ForumSystem.Services.Mapping.csprojAssemblyReference.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\obj\Debug\netstandard2.1\ForumSystem.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\obj\Debug\netstandard2.1\ForumSystem.Services.Mapping.AssemblyInfo.cs
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\obj\Debug\netstandard2.1\ForumSystem.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\obj\Debug\netstandard2.1\ForumSystem.Services.Mapping.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services.Mapping\obj\Debug\netstandard2.1\ForumSystem.Services.Mapping.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TqnUO7oSAsUlhMNil9ExlHjBjSAx9fDw1JqUw14IikR95XzBi8rX4lbPBm+d2Wid5iQtHUnk0gLgyFr3fZHcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikow\\Desktop\\CSharpWeb\\ForumSystem\\Data\\ForumSystem.Data.Common\\ForumSystem.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikow\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\nikow\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512",
+    "C:\\Users\\nikow\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

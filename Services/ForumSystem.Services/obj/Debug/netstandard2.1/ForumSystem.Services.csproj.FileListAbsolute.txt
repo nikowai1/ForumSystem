@@ -1,0 +1,9 @@
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\bin\Debug\netstandard2.1\ForumSystem.Services.deps.json
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\bin\Debug\netstandard2.1\ForumSystem.Services.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\bin\Debug\netstandard2.1\ForumSystem.Services.pdb
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\obj\Debug\netstandard2.1\ForumSystem.Services.csprojAssemblyReference.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\obj\Debug\netstandard2.1\ForumSystem.Services.AssemblyInfoInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\obj\Debug\netstandard2.1\ForumSystem.Services.AssemblyInfo.cs
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\obj\Debug\netstandard2.1\ForumSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\obj\Debug\netstandard2.1\ForumSystem.Services.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Services\ForumSystem.Services\obj\Debug\netstandard2.1\ForumSystem.Services.pdb

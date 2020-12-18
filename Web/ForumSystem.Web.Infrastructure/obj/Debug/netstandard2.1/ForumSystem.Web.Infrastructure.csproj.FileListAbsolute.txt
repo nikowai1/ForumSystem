@@ -1,0 +1,8 @@
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Web\ForumSystem.Web.Infrastructure\bin\Debug\netstandard2.1\ForumSystem.Web.Infrastructure.deps.json
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Web\ForumSystem.Web.Infrastructure\bin\Debug\netstandard2.1\ForumSystem.Web.Infrastructure.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Web\ForumSystem.Web.Infrastructure\bin\Debug\netstandard2.1\ForumSystem.Web.Infrastructure.pdb
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Web\ForumSystem.Web.Infrastructure\obj\Debug\netstandard2.1\ForumSystem.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Web\ForumSystem.Web.Infrastructure\obj\Debug\netstandard2.1\ForumSystem.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Web\ForumSystem.Web.Infrastructure\obj\Debug\netstandard2.1\ForumSystem.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Web\ForumSystem.Web.Infrastructure\obj\Debug\netstandard2.1\ForumSystem.Web.Infrastructure.dll
+C:\Users\nikow\Desktop\CSharpWeb\ForumSystem\Web\ForumSystem.Web.Infrastructure\obj\Debug\netstandard2.1\ForumSystem.Web.Infrastructure.pdb
